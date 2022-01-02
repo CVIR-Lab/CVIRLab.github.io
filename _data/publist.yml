@@ -1,6 +1,6 @@
 - title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
   image: planefit.png
-  description: A kernek-based rock detection framework is proposed for a planetary rover. Two algorithms are developed based Kernel PCA and LRR. We also publised a rock segmentation dataset free to download.
+  description: A kernek-based rock detection framework is proposed for a planetary rover. Two algorithms are developed based on Kernel PCA and LRR. We also publised a small-scale Martian rock dataset with labeled mask for rock segmentation.
   authors: Xiao, X., Yao, M., Liu, H., Wang, J., Zhang, L., & Fu, Y
   link:
     url: https://doi.org/10.1109/TNNLS.2021.3131206
