@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group as a part of Optoelectronic Measurement and Analysis Center at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially the outspace and planetary environment, and boost collaboration between people and devices.
+We are the a dynamic research group as a part of Optoelectronic Measurement and Analysis Center at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially the outspace and planetary environment, and boost collaboration between people and devices.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
