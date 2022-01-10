@@ -10,7 +10,7 @@ permalink: /datasets/
 
 <b>Description:</b> Code and labeled data for rock segmentation on Mars  
 <b>Download:</b> [MarsData](https://github.com/CVIR-Lab/MarsData)   
-<b>Reference:</b>   
+<b>Reference:</b>   [A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover](https://doi.org/10.1109/TNNLS.2021.3131206)
 
 #### Panoramic image segmentation dataset on Mars.
 
