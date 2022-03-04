@@ -6,7 +6,7 @@ sitemap: false
 permalink: /datasets/
 ---
 
-#### Mars Rock dataset for Mars Rover.
+#### The first public Rock dataset on Mars.
 
 <b>Description:</b> Code and labeled data for rock segmentation on Mars  
 <b>Download:</b> [MarsData](https://github.com/CVIR-Lab/MarsData)   
