@@ -51,7 +51,7 @@ We are the a dynamic research group as a part of Optoelectronic Measurement and 
 
 To this end, we develop novel methods to detect objects on Mars for the rovers. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
 
-We are located at CUST, the birthplace of optical engineering in China. As a part of part of Optoelectronic Measurement and Analysis Center, we exchange ideas and work with our colleagues on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
+We are located at CUST, the birthplace of optical engineering in China. As a part of Optoelectronic Measurement and Analysis Center, we exchange ideas and work with our colleagues on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
 
  **We are looking for passionate new Lecturer, Master and Undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
