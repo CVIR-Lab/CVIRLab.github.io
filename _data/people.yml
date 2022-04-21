@@ -26,6 +26,13 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
+- name: Yifan Qi
+  photo: yifan.jpg
+  info: Master student, started Sept 2022
+  email: yifan@cust.edu.cn
+  number_educ: 1
+  education1: Bsc with Hebei University of Science and Technology
+
 - name: "C-max(Pang Pang)"
   photo: cvpp.png
   info: our Max! 
