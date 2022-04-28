@@ -9,6 +9,17 @@
   education3:
   education4:
 
+- name: Fei Han
+  photo: fh.png
+  info: Deputy director of Aerospace R & D Center, research professorship
+  apt: Shanghai Aerospace Control Technology Institute
+  email: XXX
+  number_educ: 1
+  education1: 
+  education2:
+  education3:
+  education4:
+
 - name: Yang Tian
   photo: yangtian.png
   info: Associate professor
@@ -34,7 +45,7 @@
 - name: Zheng Bo
   photo: bz.jpg
   info: Navigation Lab key staff
-  apt: Aerospace Research and Development Center, Shanghai Aerospace Control Technology Institute.
+  apt: Aerospace R&D Center, Shanghai Aerospace Control Technology Institute.
   email: XXX
   number_educ: 1
   education1: 
