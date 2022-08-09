@@ -106,3 +106,13 @@
     display:  IEEE International Conference on Robotics and Automation (ICRA), (2020)
   highlight: 0
   news2:
+
+- title: A hybrid attention semantic segmentation network for unstructured terrain on Mars
+  image: dummy.png
+  description: ""
+  authors: Haiqaing Liu, Meibao Yao, Xueming Xiao, Hutao Cui
+  link:
+    url: https://doi.org/10.1016/j.actaastro.2022.08.002
+    display:  Acta Astronautica, (2022)
+  highlight: 0
+  news2:
