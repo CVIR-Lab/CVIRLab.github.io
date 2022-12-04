@@ -39,12 +39,4 @@ The normal time/place for Journal Club is Mon.9:30-11:30 in 709 rom
 </div>
 </div>
 
-## Journal club
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc1.jpg" width="60%">
-</figure>
 
-## On-meetings
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc2.jpg" width="60%">
-</figure>

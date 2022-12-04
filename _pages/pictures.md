@@ -50,16 +50,16 @@ Jump to: [Journal Club](#journal-club), [Online Meetings](#online-meeting)
 
 First advertisement.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc3.jpg" width="60%" >
 </figure>
 
 
 ## Journal club
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc1.jpg" width="60%">
 </figure>
 
 ## On-meetings
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc2.jpg" width="60%">
 </figure>
