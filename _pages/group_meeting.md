@@ -83,7 +83,7 @@ Jump to: [Journal Club](#journal-club), [Online Meetings](#online-meeting)
 <p> &nbsp; </p>
 
 
-### On-meetings
+### Online meetings
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/bsop.jpg" width="60%">
 </figure>
