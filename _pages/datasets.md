@@ -17,3 +17,9 @@ permalink: /datasets/
 <b>Description:</b> Code and data for panoramic semantic segmentation on Mars.  
 <b>Download:</b> coming soon.  
 <b>Reference:</b>  hyper
+
+#### LaTeX template for CUST thesis.
+
+<b>Description:</b> The LaTeX template for CUST thesis(unofficial).  
+<b>Download:</b> [custhesis](https://github.com/CVIR-Lab/LaTeX-template-for-CUST-thesis)
+<b>Reference:</b>  hyper
