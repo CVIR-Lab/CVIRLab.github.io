@@ -1,3 +1,27 @@
+- title: "RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation"
+  image: rockformer.png
+  description: " The first U-shaped Transformer framework for Mars rock segmentation, consisting of a hierarchical encoder–decoder architecture with a feature refining module (FRM) connected between them."
+  authors: Haiqaing Liu, Meibao Yao, Xueming Xiao, Yonggang Xiong
+  link:
+    url: https://doi.org/10.1109/TGRS.2023.3235525
+    display:  IEEE Transactions on Geoscience and Remote Sensing  61, 1-16, 2023
+  highlight: 1
+  news2:
+
+- title: "DC-MOT: Motion Deblurring and Compensation for Multi-Object Tracking in UAV Videos"
+  image: icra2023model.jpg
+  description: "we propose a multi-object tracking framework for videos captured by UAVs, considering motion imperfection in the following two aspects: 1) motion blurring of objects due to high-speed motion of the UAV and the objects,deteriorating the performance of the detector; 2) motion coupling
+of the global movement of the UAV camera with the object motion, resulting in the nonlinearity of objects trajectories in adjacent frames and further more difficult to predict. For motion blurring, this paper proposes a hybrid deblurring module
+that deals with the blurred frames while retaining the clear frames, trading off between video tracking performance and spatio-temporal consistency. For motion coupling, we proposed a motion compensation module to align adjacent frames by
+feature matching, and the corrected target position is obtained in the next frame to alleviate the interference of camera movement with tracking. We evaluate the proposed methods on VisDrone dataset and validate that our framework achieves
+new state-of-the-art performance on UAV-based MOT systems."
+  authors: Song Cheng, Meibao Yao, Xueming Xiao
+  link:
+    url: https://www.icra2023.org/welcome
+    display: IEEE International Conference on Robotics and Automation (ICRA) (2023), ExCel London
+  highlight: 1
+  news2:
+
 - title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
   image: tnnls.png
   description: A kernek-based rock detection framework is proposed for a planetary rover. Two algorithms are developed based on Kernel PCA and LRR. We also publised a small-scale Martian rock dataset called **MarsData** with labeled mask for rock segmentation.
@@ -96,7 +120,7 @@
     display:  Journal of the Franklin Institute,358,10 (2021)
   highlight: 0
   news2:
-  
+
 - title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
   image: dummy.png
   description: ""
