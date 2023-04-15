@@ -22,5 +22,5 @@ permalink: /datasets/
 #### LaTeX template for CUST thesis.
 
 <b>Description:</b> The LaTeX template for CUST thesis(unofficial).  
-<b>Download:</b> [custhesis](https://github.com/CVIR-Lab/LaTeX-template-for-CUST-thesis). 
+<b>Download:</b> [custhesis](https://github.com/CVIR-Lab/LaTeX-template-for-CUST-thesis).  
 <b>Reference:</b>  hyper
