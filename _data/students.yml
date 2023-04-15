@@ -8,107 +8,37 @@
 #  education3:
 #  education4:
 
-- name: Zhenghao Xiao
+- name: Tianhong Xia
   photo: rock.jpg
-  info: Working on open project 1 Object detection and segmentation
-  email: 
-  number_educ: 0
-  education1: 
-  
-- name: Ruitao Zuo
-  photo: rock.jpg
-  info: Working on open project 3 Object tracking and avoidance
-  email: 
-  number_educ: 0
-  education1: 
-
-- name: Chengfeng Mai
-  photo: rock.jpg
-  info: Working on open project 3
+  info: Working on RM and Computational imaging
   email:
   number_educ: 0
   education1:
-
-- name: Xingda Fu
-  photo: rock.jpg
-  info: Working on open project 2 non-contact physiological data measurement
-  email:
-  number_educ: 
-  education1:
-
-- name: Changji Xing
-  photo: rock.jpg
-  info: Working on open project 3
-  email:
-  number_educ: 0
-  education1:
- 
-- name: Yandong Zhang
-  photo: rock.jpg
-  info: Working on open project 2
-  email:
-  number_educ: 0
-  education1:
-  
-- name: Yuxi Wu
-  photo: rock.jpg
-  info: Working on open project 2
-  email:
-  number_educ: 0
-  education1:
- 
-- name: Jinwei Du
-  photo: rock.jpg
-  info: Working on open project 1
-  email:
-  number_educ: 0
-  education1:
- 
-- name: Huiming Yang
-  photo: rock.jpg
-  info: Working on open project 1
-  email:
-  number_educ: 0
-  education1:
-  
-- name: Hao Cui
-  photo: rock.jpg
-  info: Working on open project 1
-  email:
-  number_educ: 0
-  education1:
-
-- name: Yifan Chang
-  photo: rock.jpg
-  info: Working on open project 2
-  email:
-  number_educ: 0
-  education1:
-  
-- name: Han Gao
-  photo: rock.jpg
-  info: Working on open project 2
-  email:
-  number_educ: 0
-  education1:
-  
+   
 - name: Haonan Xu
   photo: rock.jpg
-  info: Working on open project 3
+  info: Working on RM
   email:
   number_educ: 0
   education1:
 
-- name: Jiale Chen
+- name: Sicheng Xi
   photo: rock.jpg
-  info: Working on open project 3
+  info: Working on Working on RM and Computational imaging
   email:
   number_educ: 0
   education1:
-  
-- name: Xieyou Guo
+
+- name: Junyu Sun
   photo: rock.jpg
-  info: Working on open project 1
+  info: Working on RM
   email:
   number_educ: 0
   education1:
+
+- name: Zhenghao Xiao
+  photo: rock.jpg
+  info: Working on 3D reconsturction
+  email: 
+  number_educ: 0
+  education1: 
