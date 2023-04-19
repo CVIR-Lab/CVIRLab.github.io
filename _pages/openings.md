@@ -14,7 +14,7 @@ We are always looking for new group members with passion, talent, and grit!
 
 
 ### Phd and Master projects
-If you are interested in pursuing a Master degree at CUST, see [subject.oe](https://gd.cust.edu.cn/yjsyxk/yjszs/index.htm). We take phd and master students if we get exceptional applicants (this usually means very good grades).
+If you are interested in pursuing a Phd or Master degree at CUST, see [subject.oe](https://gd.cust.edu.cn/yjsyxk/yjszs/index.htm). We take phd and master students if we get exceptional applicants (this usually means very good grades).
 ### Bsc students for CUST students 
 If you are a Bsc student at CUST looking for a Bsc opening project, contact me (or any group member) per email or stop by my office.
 
