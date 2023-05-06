@@ -10,9 +10,9 @@ permalink: /group_meeting/
 
 Group meetings are held every other week and journal club is held every week.
 
-The normal time/place for Group meetings is Tues. 9:30-11:00 in 403 rom.
+The normal time/place for Group meetings is Tues. 9:30-11:00 in 709 room.
 
-The normal time/place for Journal Club is Mon.9:30-11:30 in 709 rom
+The normal time/place for Joint Journal Club is Mon.19:00 online, please [login in](https://cvirlab.quickconnect.cn/#/signin) to check the previous recording videos. 
 
 <b>Schedule is subject to change, please check frequently. </b>
 
