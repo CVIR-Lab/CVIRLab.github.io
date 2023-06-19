@@ -1,19 +1,26 @@
-- title: "XXX"
-  meeting: XXX
-  presenter: XXX
-  date: Dec 11, 2019
-  location: XX, XX, XXX
+- title: "Poster on ICRA2023"
+  meeting: International Conference on Robotics and Automation
+  presenter: Xiao
+  date: May 58-June 3, 2023
+  location: ExCeL, London, UK
   invited_talk: 0
 
-- title: "XXX"
-  meeting: XX
-  presenter: XX
-  date: XX, XX, XX
-  location: Online
+- title: "Invited talk on CSIAM-BDAI 2023"
+  meeting: CSIAM-BDAI 2023
+  presenter: Xiao
+  date: July 7-9, 2023
+  location: ExCeL, GuiYang, CN
+  invited_talk: 1
+
+- title: "Session Chair of ICASD 2023"
+  meeting: International Conference on Aerospace Structural Dynamics
+  presenter: Xiao
+  date: Sep 15-17, 2023 
+  location: Xi'an, CN
   invited_talk: 1
   
 - title: "XX"
   meeting: XX
   presenter: XX
   date: XX, XX, XX
-  location: XXX, XX, XX
+  location: online
