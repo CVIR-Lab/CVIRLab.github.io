@@ -20,7 +20,7 @@ permalink: /presentations/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ talk.title }}</pubtit>
+  <p>{{ talk.title }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/prepic/{{ talk.image }}" class="img-responsive" width="33%" style="float: left" />
   <p><em>presented by {{ talk.presenter }}</em></p>
   <p><strong>at {{ talk.meeting}}</strong></p>
