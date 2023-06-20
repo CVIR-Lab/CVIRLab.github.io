@@ -27,25 +27,25 @@
 
 - title: "CEC poster 2018"
   meeting: IEEE Congress on Evolutionary Computation
-  image: icra2023.jpg
+  image: wcci.jpg
   presenter: Xueming Xiao
-  date: Oct 1-5, 2018 
+  date:   July 8-13, 2018 
   location: Rio de Janeiro, Brazil
   invited_talk: 0
   highlight: 1
   
-- title: "IAC poster 2017"
-  meeting: IEEE Congress on Evolutionary Computation
-  presenter: Xueming Xiao
-  date: Oct 1-5, 2017 
-  location: Toronto, Canada
-  invited_talk: 0
-
 - title: "IAC poster 2015"
   meeting:  International Astronautical Congress
-  image: icra2023.jpg
+  image: iac2015.jpg
   presenter: Xueming Xiao
-  date: Oct 1-7, 2015 
+  date: Oct 12-16, 2015 
   location: Jerusalem, Israel
   invited_talk: 0
   highlight: 1
+
+- title: "IAC poster 2014"
+  meeting: International Astronautical Congress
+  presenter: Xueming Xiao
+  date: Oct 1-5, 2014
+  location: Toronto, Canada
+  invited_talk: 0
