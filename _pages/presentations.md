@@ -1,7 +1,7 @@
 ---
-title: "Presentations"
+title: "CVIR Lab - Presentations"
 layout: gridlay
-excerpt: "Presentations"
+excerpt: "CVIR Lab -- Presentations"
 sitemap: false
 permalink: /presentations/
 ---
