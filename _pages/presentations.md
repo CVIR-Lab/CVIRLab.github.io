@@ -46,7 +46,7 @@ permalink: /presentations/
 
 <p> &nbsp; </p>
 
-## Full List of publications
+## Full List of presentations
 
 {% for talk in site.data.presentationlist %}
 
