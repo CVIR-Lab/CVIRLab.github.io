@@ -10,7 +10,7 @@ permalink: /presentations/
 {% for talk in site.data.presentationlist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if talk.highlight == 1 %}
 
 
 {% if even_odd == 0 %}
