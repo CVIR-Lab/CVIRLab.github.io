@@ -1,20 +1,41 @@
 - title: "Poster on ICRA2023"
   meeting: International Conference on Robotics and Automation
-  presenter: Xiao
+  presenter: Xueming Xiao
   date: May 58-June 3, 2023
   location: ExCeL, London, UK
   invited_talk: 0
 
 - title: "Invited talk on CSIAM-BDAI 2023"
   meeting: CSIAM-BDAI 2023
-  presenter: Xiao
+  presenter: Xueming Xiao
   date: July 7-9, 2023
-  location: ExCeL, GuiYang, CN
+  location: GuiYang, China
   invited_talk: 1
 
 - title: "Session Chair of ICASD 2023"
   meeting: International Conference on Aerospace Structural Dynamics
-  presenter: Xiao
+  presenter: Xueming Xiao
   date: Sep 15-17, 2023 
-  location: Xi'an, CN
+  location: Xi'an, China
   invited_talk: 1
+
+- title: "CEC poster 2018"
+  meeting: IEEE Congress on Evolutionary Computation
+  presenter: Xueming Xiao
+  date: Oct 1-5, 2018 
+  location: Rio de Janeiro, Brazil
+  invited_talk: 0
+
+- title: "IAC poster 2017"
+  meeting: IEEE Congress on Evolutionary Computation
+  presenter: Xueming Xiao
+  date: Oct 1-5, 2017 
+  location: Toronto, Canada
+  invited_talk: 0
+
+- title: "IAC poster 2015"
+  meeting:  International Astronautical Congress
+  presenter: Xueming Xiao
+  date: Oct 1-7, 2015 
+  location: Jerusalem, Israel
+  invited_talk: 0
