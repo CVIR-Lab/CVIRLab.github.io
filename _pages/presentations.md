@@ -20,12 +20,17 @@ permalink: /presentations/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <p>{{ talk.title }}</p>
+  <pubtit>{{ talk.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/prepic/{{ talk.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p><em>presented by {{ talk.presenter }}</em></p>
-  <p><strong>at {{ talk.meeting}}</strong></p>
-  <p class="text-danger"><strong> {{ talk.date }}</strong></p>
+  <p><em>presented by {{ talk.presenter }} at </em></p>
+  <p class="text-danger"><strong> {{ talk.meeting}}</strong></p>
+  <p><strong> {{ talk.date }}</strong></p>
+  {% if talk.invited_talk == 1 %}
   <p> {{ talk.location }}.(Invited) </p>
+  {% endif %}
+  {% if talk.invited_talk == 0 %}
+  <p> {{ talk.location }}. </p>
+  {% endif %}
  </div>
 </div>
 
