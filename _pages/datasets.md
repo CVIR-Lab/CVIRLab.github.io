@@ -6,7 +6,7 @@ sitemap: false
 permalink: /datasets/
 ---
 
-#### The first public Rock dataset on Mars.
+#### <b>The first public Rock dataset on Mars.</b>
 
 <b>Description:</b> a rock segmentation dataset of real Martian scenes for the training of deep networks, which were collected by a Mastcam camera of the Curiosity rover on Mars between August 2012 and November 2018.  
 <b>Download:</b> [MarsData](https://github.com/CVIR-Lab/MarsData); [MarsData-V2](https://github.com/CVIR-Lab/MarsData/tree/MarsData-V2)  
