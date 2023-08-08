@@ -35,6 +35,9 @@ We are the a dynamic research group as a part of Optoelectronic Measurement and 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tnnls.png" alt="Slide 4" />
         </div>
+                <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/marsformer.png" alt="Slide 4" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
