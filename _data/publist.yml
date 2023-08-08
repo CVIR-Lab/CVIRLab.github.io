@@ -159,13 +159,3 @@ feature matching, and the corrected target position is obtained in the next fram
     display: Journal of Physics Conference Series, (2022)
   highlight: 0
   news2:
-
-- title: RockFormer a U-shaped Transformer Network for Martian Rock Segmentation
-  image: dummy.png
-  description: ""
-  authors: Haiqiang Liu, Meibao Yao, Xueming Xiao and Yonggang Xiong
-  link:
-    url: https://doi.org/10.1109/TGRS.2023.3235525
-    display:  IEEE Transactions on Geoscience and Remote Sensing, (2023)
-  highlight: 0
-  news2:
