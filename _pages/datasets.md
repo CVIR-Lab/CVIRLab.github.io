@@ -23,7 +23,7 @@ permalink: /datasets/
 
 <b>Description:</b> a wide-angle semantic segmentation dataset for unstructured scenes like Mars. It contains a large number of rocks of different sizes, all of which are labeled regardless of size, helping to more accurately assess the robustness of various segmentation methods.    
 <b>Download:</b> [SynMars](https://github.com/CVIR-Lab/SynMars)    
-<b>Reference:</b> MarsFormer: Martian Rock Semantic Segmentation with Transformer  
+<b>Reference:</b> [MarsFormer: Martian Rock Semantic Segmentation with Transformer](https://ieeexplore.ieee.org/document/10210278)  
 
 #### <b>LaTeX template for CUST thesis.</b>
 
