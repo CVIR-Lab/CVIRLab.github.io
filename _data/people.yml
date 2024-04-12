@@ -61,6 +61,13 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
+- name: Qingeng Li
+  photo: qgli.jpg
+  info: Master student, started Sept 2024
+  email: qgli@cust.edu.cn
+  number_educ: 1
+  education1: Bsc with Changchun University of Science and Technology  
+
 - name: "C-max(Pang Pang)"
   photo: cvpp.png
   info: our Max! 
