@@ -1,3 +1,13 @@
+- title: "PVSPE: A Pyramid Vision Multitask Transformer Network for Spacecraft Pose Estimation"
+  image: dummy.png
+  description: " "
+  authors: Hong Yang, Xueming Xiao, Meibao Yao, Yonggang Xiong, Hutao Cui, Yuegang Fu
+  link:
+    url: https://doi.org/10.1016/j.asr.2024.05.011
+    display:  Advances in Space Research, 61,1-12,2024
+  highlight: 0
+  news2:
+
 - title: "MarsFormer: Martian Rock Semantic Segmentation with Transformer"
   image: marsformer.png
   description: " A novel Transformer semantic segmentation framework for Martian rock images, consisting of an encoder-decoder structure connected through a Feature Enhancement Module (FEM) and a Window Transformer Block (WTB). 
@@ -29,6 +39,26 @@ feature matching, and the corrected target position is obtained in the next fram
     url: https://www.icra2023.org/welcome
     display: IEEE International Conference on Robotics and Automation (ICRA) (2023), ExCel London
   highlight: 1
+  news2:
+
+- title: A hybrid attention semantic segmentation network for unstructured terrain on Mars
+  image: dummy.png
+  description: ""
+  authors: Haiqaing Liu, Meibao Yao, Xueming Xiao, Hutao Cui
+  link:
+    url: https://doi.org/10.1016/j.actaastro.2022.08.002
+    display:  Acta Astronautica, (2022)
+  highlight: 0
+  news2:
+
+- title: A Configuration Design Method for Reconfigurable Robots Based on Terrain Understanding
+  image: dummy.png
+  description: ""
+  authors: Shang, Hua and Xi, Yurong and Xie, Zhibing and Xiao, Xueming and Yao, Meibao
+  link:
+    url: https://doi.org/10.1088/1742-6596/2203/1/012023
+    display: Journal of Physics Conference Series, (2022)
+  highlight: 0
   news2:
 
 - title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
@@ -140,22 +170,4 @@ feature matching, and the corrected target position is obtained in the next fram
   highlight: 0
   news2:
 
-- title: A hybrid attention semantic segmentation network for unstructured terrain on Mars
-  image: dummy.png
-  description: ""
-  authors: Haiqaing Liu, Meibao Yao, Xueming Xiao, Hutao Cui
-  link:
-    url: https://doi.org/10.1016/j.actaastro.2022.08.002
-    display:  Acta Astronautica, (2022)
-  highlight: 0
-  news2:
 
-- title: A Configuration Design Method for Reconfigurable Robots Based on Terrain Understanding
-  image: dummy.png
-  description: ""
-  authors: Shang, Hua and Xi, Yurong and Xie, Zhibing and Xiao, Xueming and Yao, Meibao
-  link:
-    url: https://doi.org/10.1088/1742-6596/2203/1/012023
-    display: Journal of Physics Conference Series, (2022)
-  highlight: 0
-  news2:
