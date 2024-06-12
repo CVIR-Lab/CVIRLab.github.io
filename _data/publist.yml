@@ -71,6 +71,16 @@ feature matching, and the corrected target position is obtained in the next fram
   highlight: 1
   news2:
 
+- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
+  link:
+    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
+    display:  Journal of the Franklin Institute,358,10 (2021)
+  highlight: 0
+  news2:
+
 - title: "Robust plane fitting algorithm for landing hazard detection"
   image: planefit.png
   description: An innovative three dimensional hazard detection algorithm is proposed for a planetary safe landing mission. A novel robust scale estimator is proposed, which can achieve a breakdown point of more than 50 percentage.
@@ -150,16 +160,6 @@ feature matching, and the corrected target position is obtained in the next fram
   highlight: 0
   news2:
   
-- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
-  link:
-    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
-    display:  Journal of the Franklin Institute,358,10 (2021)
-  highlight: 0
-  news2:
-
 - title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
   image: dummy.png
   description: ""
