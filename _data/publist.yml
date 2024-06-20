@@ -1,3 +1,14 @@
+- title: "Light4Mars: A lightweight transformer model for semantic segmentation on
+unstructured environment like Mars"
+  image: dummy.png
+  description: " "
+  authors: Yonggang Xiong, Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
+  link:
+    url: https://doi.org/10.1016/j.isprsjprs.2024.06.008
+    display:  ISPRS Journal of Photogrammetry and Remote Sensing, 214,167-178,2024
+  highlight: 0
+  news2:
+
 - title: "PVSPE: A Pyramid Vision Multitask Transformer Network for Spacecraft Pose Estimation"
   image: dummy.png
   description: " "
