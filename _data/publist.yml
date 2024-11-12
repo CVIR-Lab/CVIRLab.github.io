@@ -1,3 +1,13 @@
+- title: "AirFormer: Learning-Based Object Detection For Mars Helicopter"
+  image: dummy.png
+  description: " "
+  authors: Yifan Qi, Xueming Xiao, Meibao Yao, Yonggang Xiong, Lei Zhang, Hutao Cui
+  link:
+    url: https://doi.org/10.1109/JSTARS.2024.3492346
+    display:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing , 2024
+  highlight: 0
+  news2:
+
 - title: "Light4Mars: A lightweight transformer model for semantic segmentation on
 unstructured environment like Mars"
   image: dummy.png
