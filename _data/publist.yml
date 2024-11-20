@@ -1,22 +1,22 @@
 - title: "AirFormer: Learning-Based Object Detection For Mars Helicopter"
-  image: dummy.png
+  image: airformer1.png
   description: " "
   authors: Yifan Qi, Xueming Xiao, Meibao Yao, Yonggang Xiong, Lei Zhang, Hutao Cui
   link:
     url: https://doi.org/10.1109/JSTARS.2024.3492346
     display:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing , 2024
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Light4Mars: A lightweight transformer model for semantic segmentation on
 unstructured environment like Mars"
-  image: dummy.png
+  image: light4mars.png
   description: " "
   authors: Yonggang Xiong, Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
     url: https://doi.org/10.1016/j.isprsjprs.2024.06.008
     display:  ISPRS Journal of Photogrammetry and Remote Sensing, 214,167-178,2024
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "PVSPE: A Pyramid Vision Multitask Transformer Network for Spacecraft Pose Estimation"
