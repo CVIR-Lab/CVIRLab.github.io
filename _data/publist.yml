@@ -12,7 +12,7 @@
 - title: "Light4Mars: A lightweight transformer model for semantic segmentation on
 unstructured environment like Mars"
   image: light4mars.png
-  description: " "
+  description: " a lightweight model with minimal computational complexity while maintaining high segmenting accuracy. We designed a lightweight squeeze window transformer module that focuses on window-scale feature extraction and is more effective in learning global and local contextual information"
   authors: Yonggang Xiong, Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
     url: https://doi.org/10.1016/j.isprsjprs.2024.06.008
