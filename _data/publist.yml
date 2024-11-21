@@ -1,7 +1,7 @@
 - title: "AirFormer: Learning-Based Object Detection For Mars Helicopter"
   image: airformer.png
-  description: " A novel deep learning-based object detection framework, AirFormer, for Mars helicopter is proposed. AirFormer embeds a new feature-fusion attention module, MAT, which injects various receptive field sizes into labels. 
-  This fusion module is capable of capturing the interrelations between objects with each other while simultaneously reducing computational complexity. In addition, we published a synthetic dataset from the viewpoint of the Mars helicopter: SynMars-Air, which refers to the data collected by the ZhuRong rover. The dataset is available at: https://github.com/CVIR-Lab/SynMars-Air}. "
+  description: " A novel deep learning-based object detection framework, AirFormer, for Mars helicopter is proposed. AirFormer embeds a new feature-fusion attention module. 
+ In addition, we published a synthetic dataset from the viewpoint of the Mars helicopter ** SynMars-Air**, which refers to the data collected by the ZhuRong rover. The dataset is available at: https://github.com/CVIR-Lab/SynMars-Air."
   authors: Yifan Qi, Xueming Xiao, Meibao Yao, Yonggang Xiong, Lei Zhang, Hutao Cui
   link:
     url: https://doi.org/10.1109/JSTARS.2024.3492346
