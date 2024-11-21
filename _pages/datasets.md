@@ -22,8 +22,10 @@ permalink: /datasets/
 #### <b>SynMars：a wide-angle synthetic semantic segmentation dataset for unstructured scenes like Mars.</b>
 
 <b>Description:</b> a wide-angle semantic segmentation dataset for unstructured scenes like Mars. It contains a large number of rocks of different sizes, all of which are labeled regardless of size, helping to more accurately assess the robustness of various segmentation methods.    
-<b>Download:</b> [SynMars](https://github.com/CVIR-Lab/SynMars)    
+<b>Download:</b> [SynMars](https://github.com/CVIR-Lab/SynMars);[SynMars-TW](https://github.com/CVIR-Lab/SynMars/tree/SynMars-TW);[SynMars-Air](https://github.com/CVIR-Lab/SynMars/tree/SynMars-Air)  
 <b>Reference:</b> [MarsFormer: Martian Rock Semantic Segmentation with Transformer](https://ieeexplore.ieee.org/document/10210278)  
+&emsp;&emsp;&emsp;&emsp;&emsp;[Ligth4Mars: A lightweight transformer model for semantic segmentation on unstructured environment like Mars](https://doi.org/10.1016/j.isprsjprs.2024.06.008)
+&emsp;&emsp;&emsp;&emsp;&emsp;[AirFormer: Learning-Based Object Detection For Mars Helicopter](https://doi.org/10.1109/JSTARS.2024.3492346)
 
 #### <b>LaTeX template for CUST thesis.</b>
 
